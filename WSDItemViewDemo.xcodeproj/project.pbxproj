@@ -7,39 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D228CDB51BA81BAA002927AA /* WSDInputViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D228CDB31BA81BAA002927AA /* WSDInputViewController.m */; };
-		D228CDB61BA81BAA002927AA /* WSDInputViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D228CDB41BA81BAA002927AA /* WSDInputViewController.xib */; };
-		D228CDBA1BA91137002927AA /* WSDSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D228CDB81BA91137002927AA /* WSDSelectionViewController.m */; };
-		D228CDBB1BA91137002927AA /* WSDSelectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D228CDB91BA91137002927AA /* WSDSelectionViewController.xib */; };
-		D2FB6F5E1BA6CC1700C6B394 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FB6F5D1BA6CC1700C6B394 /* main.m */; };
-		D2FB6F611BA6CC1700C6B394 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FB6F601BA6CC1700C6B394 /* AppDelegate.m */; };
-		D2FB6F641BA6CC1700C6B394 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FB6F631BA6CC1700C6B394 /* ViewController.m */; };
-		D2FB6F671BA6CC1700C6B394 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2FB6F651BA6CC1700C6B394 /* Main.storyboard */; };
-		D2FB6F691BA6CC1700C6B394 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2FB6F681BA6CC1700C6B394 /* Images.xcassets */; };
-		D2FB6F6C1BA6CC1700C6B394 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D2FB6F6A1BA6CC1700C6B394 /* LaunchScreen.xib */; };
-		D2FB6F841BA6CD6400C6B394 /* WSDItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FB6F831BA6CD6400C6B394 /* WSDItemView.m */; };
+		D204281A1BAA61420045E722 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D20428071BAA61420045E722 /* AppDelegate.m */; };
+		D204281B1BAA61420045E722 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D20428081BAA61420045E722 /* LaunchScreen.xib */; };
+		D204281C1BAA61420045E722 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D204280A1BAA61420045E722 /* Main.storyboard */; };
+		D204281D1BAA61420045E722 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D204280C1BAA61420045E722 /* Images.xcassets */; };
+		D204281E1BAA61420045E722 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D204280D1BAA61420045E722 /* Info.plist */; };
+		D204281F1BAA61420045E722 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D204280E1BAA61420045E722 /* main.m */; };
+		D20428201BAA61420045E722 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D20428101BAA61420045E722 /* ViewController.m */; };
+		D20428211BAA61420045E722 /* WSDInputViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D20428131BAA61420045E722 /* WSDInputViewController.m */; };
+		D20428221BAA61420045E722 /* WSDInputViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D20428141BAA61420045E722 /* WSDInputViewController.xib */; };
+		D20428231BAA61420045E722 /* WSDItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = D20428161BAA61420045E722 /* WSDItemView.m */; };
+		D20428241BAA61420045E722 /* WSDSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D20428181BAA61420045E722 /* WSDSelectionViewController.m */; };
+		D20428251BAA61420045E722 /* WSDSelectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D20428191BAA61420045E722 /* WSDSelectionViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D228CDB21BA81BAA002927AA /* WSDInputViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WSDInputViewController.h; path = WSDSelectItem/WSDInputViewController.h; sourceTree = "<group>"; };
-		D228CDB31BA81BAA002927AA /* WSDInputViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WSDInputViewController.m; path = WSDSelectItem/WSDInputViewController.m; sourceTree = "<group>"; };
-		D228CDB41BA81BAA002927AA /* WSDInputViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = WSDInputViewController.xib; path = WSDSelectItem/WSDInputViewController.xib; sourceTree = "<group>"; };
-		D228CDB71BA91137002927AA /* WSDSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WSDSelectionViewController.h; path = WSDSelectItem/WSDSelectionViewController.h; sourceTree = "<group>"; };
-		D228CDB81BA91137002927AA /* WSDSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WSDSelectionViewController.m; path = WSDSelectItem/WSDSelectionViewController.m; sourceTree = "<group>"; };
-		D228CDB91BA91137002927AA /* WSDSelectionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = WSDSelectionViewController.xib; path = WSDSelectItem/WSDSelectionViewController.xib; sourceTree = "<group>"; };
+		D20428061BAA61420045E722 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D20428071BAA61420045E722 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D20428091BAA61420045E722 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		D204280B1BAA61420045E722 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D204280C1BAA61420045E722 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		D204280D1BAA61420045E722 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D204280E1BAA61420045E722 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D204280F1BAA61420045E722 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D20428101BAA61420045E722 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D20428121BAA61420045E722 /* WSDInputViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSDInputViewController.h; sourceTree = "<group>"; };
+		D20428131BAA61420045E722 /* WSDInputViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSDInputViewController.m; sourceTree = "<group>"; };
+		D20428141BAA61420045E722 /* WSDInputViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WSDInputViewController.xib; sourceTree = "<group>"; };
+		D20428151BAA61420045E722 /* WSDItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSDItemView.h; sourceTree = "<group>"; };
+		D20428161BAA61420045E722 /* WSDItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSDItemView.m; sourceTree = "<group>"; };
+		D20428171BAA61420045E722 /* WSDSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSDSelectionViewController.h; sourceTree = "<group>"; };
+		D20428181BAA61420045E722 /* WSDSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSDSelectionViewController.m; sourceTree = "<group>"; };
+		D20428191BAA61420045E722 /* WSDSelectionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WSDSelectionViewController.xib; sourceTree = "<group>"; };
 		D2FB6F581BA6CC1700C6B394 /* WSDSelectItemDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WSDSelectItemDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D2FB6F5C1BA6CC1700C6B394 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D2FB6F5D1BA6CC1700C6B394 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D2FB6F5F1BA6CC1700C6B394 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D2FB6F601BA6CC1700C6B394 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D2FB6F621BA6CC1700C6B394 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D2FB6F631BA6CC1700C6B394 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		D2FB6F661BA6CC1700C6B394 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D2FB6F681BA6CC1700C6B394 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D2FB6F6B1BA6CC1700C6B394 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		D2FB6F821BA6CD6400C6B394 /* WSDItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WSDItemView.h; path = WSDSelectItem/WSDItemView.h; sourceTree = "<group>"; };
-		D2FB6F831BA6CD6400C6B394 /* WSDItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WSDItemView.m; path = WSDSelectItem/WSDItemView.m; sourceTree = "<group>"; };
-		F501A4D4F6DDD8542A85A5D5 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +56,46 @@
 		2F1512FF5AC0BB050A2ABF25 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F501A4D4F6DDD8542A85A5D5 /* libPods.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D20428051BAA61420045E722 /* WSDItemViewDemo */ = {
+			isa = PBXGroup;
+			children = (
+				D20428061BAA61420045E722 /* AppDelegate.h */,
+				D20428071BAA61420045E722 /* AppDelegate.m */,
+				D20428081BAA61420045E722 /* LaunchScreen.xib */,
+				D204280A1BAA61420045E722 /* Main.storyboard */,
+				D204280C1BAA61420045E722 /* Images.xcassets */,
+				D204280D1BAA61420045E722 /* Info.plist */,
+				D204280E1BAA61420045E722 /* main.m */,
+				D204280F1BAA61420045E722 /* ViewController.h */,
+				D20428101BAA61420045E722 /* ViewController.m */,
+				D20428111BAA61420045E722 /* WSDSelectItem */,
+			);
+			path = WSDItemViewDemo;
+			sourceTree = "<group>";
+		};
+		D20428111BAA61420045E722 /* WSDSelectItem */ = {
+			isa = PBXGroup;
+			children = (
+				D20428121BAA61420045E722 /* WSDInputViewController.h */,
+				D20428131BAA61420045E722 /* WSDInputViewController.m */,
+				D20428141BAA61420045E722 /* WSDInputViewController.xib */,
+				D20428151BAA61420045E722 /* WSDItemView.h */,
+				D20428161BAA61420045E722 /* WSDItemView.m */,
+				D20428171BAA61420045E722 /* WSDSelectionViewController.h */,
+				D20428181BAA61420045E722 /* WSDSelectionViewController.m */,
+				D20428191BAA61420045E722 /* WSDSelectionViewController.xib */,
+			);
+			path = WSDSelectItem;
 			sourceTree = "<group>";
 		};
 		D2FB6F4F1BA6CC1700C6B394 = {
 			isa = PBXGroup;
 			children = (
-				D2FB6F5A1BA6CC1700C6B394 /* WSDItemViewDemo */,
+				D20428051BAA61420045E722 /* WSDItemViewDemo */,
 				D2FB6F591BA6CC1700C6B394 /* Products */,
 				2F1512FF5AC0BB050A2ABF25 /* Frameworks */,
 			);
@@ -76,47 +107,6 @@
 				D2FB6F581BA6CC1700C6B394 /* WSDSelectItemDemo.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		D2FB6F5A1BA6CC1700C6B394 /* WSDItemViewDemo */ = {
-			isa = PBXGroup;
-			children = (
-				D2FB6F811BA6CC2000C6B394 /* WSDItem */,
-				D2FB6F5F1BA6CC1700C6B394 /* AppDelegate.h */,
-				D2FB6F601BA6CC1700C6B394 /* AppDelegate.m */,
-				D2FB6F621BA6CC1700C6B394 /* ViewController.h */,
-				D2FB6F631BA6CC1700C6B394 /* ViewController.m */,
-				D2FB6F651BA6CC1700C6B394 /* Main.storyboard */,
-				D2FB6F681BA6CC1700C6B394 /* Images.xcassets */,
-				D2FB6F6A1BA6CC1700C6B394 /* LaunchScreen.xib */,
-				D2FB6F5B1BA6CC1700C6B394 /* Supporting Files */,
-			);
-			name = WSDItemViewDemo;
-			path = WSDSelectItemDemo;
-			sourceTree = "<group>";
-		};
-		D2FB6F5B1BA6CC1700C6B394 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				D2FB6F5C1BA6CC1700C6B394 /* Info.plist */,
-				D2FB6F5D1BA6CC1700C6B394 /* main.m */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		D2FB6F811BA6CC2000C6B394 /* WSDItem */ = {
-			isa = PBXGroup;
-			children = (
-				D2FB6F821BA6CD6400C6B394 /* WSDItemView.h */,
-				D2FB6F831BA6CD6400C6B394 /* WSDItemView.m */,
-				D228CDB21BA81BAA002927AA /* WSDInputViewController.h */,
-				D228CDB31BA81BAA002927AA /* WSDInputViewController.m */,
-				D228CDB41BA81BAA002927AA /* WSDInputViewController.xib */,
-				D228CDB71BA91137002927AA /* WSDSelectionViewController.h */,
-				D228CDB81BA91137002927AA /* WSDSelectionViewController.m */,
-				D228CDB91BA91137002927AA /* WSDSelectionViewController.xib */,
-			);
-			name = WSDItem;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -176,11 +166,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D228CDBB1BA91137002927AA /* WSDSelectionViewController.xib in Resources */,
-				D228CDB61BA81BAA002927AA /* WSDInputViewController.xib in Resources */,
-				D2FB6F671BA6CC1700C6B394 /* Main.storyboard in Resources */,
-				D2FB6F6C1BA6CC1700C6B394 /* LaunchScreen.xib in Resources */,
-				D2FB6F691BA6CC1700C6B394 /* Images.xcassets in Resources */,
+				D204281C1BAA61420045E722 /* Main.storyboard in Resources */,
+				D204281D1BAA61420045E722 /* Images.xcassets in Resources */,
+				D204281E1BAA61420045E722 /* Info.plist in Resources */,
+				D20428221BAA61420045E722 /* WSDInputViewController.xib in Resources */,
+				D204281B1BAA61420045E722 /* LaunchScreen.xib in Resources */,
+				D20428251BAA61420045E722 /* WSDSelectionViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -191,32 +182,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D228CDB51BA81BAA002927AA /* WSDInputViewController.m in Sources */,
-				D2FB6F841BA6CD6400C6B394 /* WSDItemView.m in Sources */,
-				D2FB6F641BA6CC1700C6B394 /* ViewController.m in Sources */,
-				D2FB6F611BA6CC1700C6B394 /* AppDelegate.m in Sources */,
-				D228CDBA1BA91137002927AA /* WSDSelectionViewController.m in Sources */,
-				D2FB6F5E1BA6CC1700C6B394 /* main.m in Sources */,
+				D20428211BAA61420045E722 /* WSDInputViewController.m in Sources */,
+				D20428201BAA61420045E722 /* ViewController.m in Sources */,
+				D20428231BAA61420045E722 /* WSDItemView.m in Sources */,
+				D204281F1BAA61420045E722 /* main.m in Sources */,
+				D20428241BAA61420045E722 /* WSDSelectionViewController.m in Sources */,
+				D204281A1BAA61420045E722 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D2FB6F651BA6CC1700C6B394 /* Main.storyboard */ = {
+		D20428081BAA61420045E722 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D2FB6F661BA6CC1700C6B394 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D2FB6F6A1BA6CC1700C6B394 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D2FB6F6B1BA6CC1700C6B394 /* Base */,
+				D20428091BAA61420045E722 /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		D204280A1BAA61420045E722 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D204280B1BAA61420045E722 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -306,7 +297,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = WSDSelectItemDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/WSDItemViewDemo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -316,7 +307,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = WSDSelectItemDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/WSDItemViewDemo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
